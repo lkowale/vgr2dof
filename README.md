@@ -4,4 +4,6 @@ This robot is a planar mimic of human arm and consists of two mini servos acting
 
 ![vgr2d](/img/vgr2d_short.gif)
 
+Youtube link:
+
 [![vgr2d youtube](http://img.youtube.com/vi/9y-y2UV7cYU/0.jpg)](http://www.youtube.com/watch?v=9y-y2UV7cYU)
